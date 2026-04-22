@@ -12,8 +12,3 @@ python-multipart
 streamlit
 beautifulsoup4
 langchain_openai
-django==1.1.3
-flask==0.1
-requests==0.0.1
-urllib3==0.2
-pillow==1.0
