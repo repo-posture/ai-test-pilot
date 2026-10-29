@@ -7,7 +7,7 @@ langgraph
 langsmith
 python-dotenv
 jira
-aiohttp==3.13.3
+aiohttp==3.14.5
 python-multipart
 streamlit
 beautifulsoup4
